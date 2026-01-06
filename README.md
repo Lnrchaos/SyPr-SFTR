@@ -17,7 +17,7 @@ A cutting-edge framework that combines symbolic reasoning, probabilistic modelin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SyPr-SFTR.git
+   git clone https://github.com/Lnrchaos/SyPr-SFTR.git
    cd SyPr-SFTR
    ```
 
